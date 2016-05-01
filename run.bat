@@ -1,0 +1,2 @@
+python train_binary_lstm_glove.py
+python predict_binary_lstm_glove.py
